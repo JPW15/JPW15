@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Justin Williams. You may know me as a writer, editor and proofreader, but I'm also an avid learner. I'm currently expanding my skillset my familiarizing myself with GitHub, with all the experience that it'll come with. 
+
+When I'm not proofreading or freelancing, you can find me performing at local Ren Faires and fireshows, watching TV, playing games, writing stories or talking a walk with Honey, the cutest and best dog in the world.  
 
 <!--
 **JPW15/JPW15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
